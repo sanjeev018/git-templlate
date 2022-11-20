@@ -1,0 +1,123 @@
+*{ 
+    padding: 0px;
+    margin: 0px;
+}
+
+.main_container{ 
+    width:98.1vw;
+}
+.nav_cont{ 
+    border-bottom: .1em solid black;
+}
+
+.top_nav_div{ 
+    width: 80vw;
+}
+
+.front_para{ 
+     font-family: 'Noto Serif Oriya', serif;
+}
+
+.front_para:hover{
+    text-decoration: underline; 
+}
+
+.top_div_row{ 
+    height: 8.8vh;
+}
+
+.li_class{ 
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   padding-top:.5em;
+}
+ /* nav cont end  */
+.container_2nd{ 
+    background-color:#FAEBD7;
+    border-bottom: .1em solid black;
+}
+
+.row_2nd{ 
+    height: 93vh;  
+}
+
+ .div_2nd{ 
+    width: 80vw;
+ }
+
+ .become_p{ 
+    font-family: 'Noto Serif Oriya', serif;
+   font-size: 3.4em;
+   letter-spacing: -.1em;
+   word-spacing: -.1em;
+ }
+
+ .take_span{ 
+font-family:inherit;  
+ }
+
+ .perfect_p{ 
+font-family:inherit;  
+ }
+
+ .vp_button{ 
+    font-weight:bold;   
+ }
+
+ .vp_button:hover{ 
+    background-color: black;
+    color: white;
+ }
+
+ .lm_button{ 
+    margin-left: 1em;
+ }
+
+ .ableton_img{ 
+    height: 31em;
+ }
+ /* container 2nd end */
+
+ .container_3rd{ 
+    background-color: black;
+ }
+ .div_3rd{ 
+    width:60vw;
+ }
+
+ .fp_span{ 
+    font-family: 'Noto Serif Oriya', serif;
+    letter-spacing: -.1em;
+    word-spacing: -.1em;
+ }
+/* .row end */
+ 
+.earth_img{ 
+   height: 7.5em;
+}
+ 
+.websited_p{ 
+   padding-top: 2.5em;
+   font-family:inherit;  
+   font-size: 1.1em;
+}
+
+.st_p{ 
+   font-family:inherit;  
+   font-size: 1.1em;
+   padding-top: 4.5em;
+}
+/* <!-- col-6 end --> */
+/* <!-- row end --> */
+/* <!-- container 3rd end --> */
+
+.nav_h:hover{ 
+   text-decoration: underline .1em ;
+}
+
+.sticky_img{ 
+   height: 6.5em;
+}
+
+.front_par{
+   font-family: 'Noto Serif Oriya', serif;
+}
