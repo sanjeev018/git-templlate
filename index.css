@@ -3,9 +3,6 @@
     margin: 0px;
 }
 
-.main_container{ 
-    width:98.1vw;
-}
 .nav_cont{ 
     border-bottom: .1em solid black;
 }
@@ -22,10 +19,6 @@
     text-decoration: underline; 
 }
 
-.top_div_row{ 
-    height: 8.8vh;
-}
-
 .li_class{ 
    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
    padding-top:.5em;
@@ -34,10 +27,7 @@
 .container_2nd{ 
     background-color:#FAEBD7;
     border-bottom: .1em solid black;
-}
-
-.row_2nd{ 
-    height: 93vh;  
+    padding: 7em 0em 7em 0em;
 }
 
  .div_2nd{ 
@@ -66,6 +56,7 @@ font-family:inherit;
  .vp_button:hover{ 
     background-color: black;
     color: white;
+    transition: all 1s;
  }
 
  .lm_button{ 
@@ -73,8 +64,8 @@ font-family:inherit;
  }
 
  .ableton_img{ 
-    height: 31em;
- }
+   height: 31em;
+}
  /* container 2nd end */
 
  .container_3rd{ 
